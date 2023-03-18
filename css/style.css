@@ -1,0 +1,9 @@
+body{
+    background-image: url(/image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    font-size: 150px;
+    color: brown;
+}
